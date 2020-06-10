@@ -1,6 +1,8 @@
 
+<div style="text-align: center">
 <img src="/images/yuzu.svg" alt="Yuzu"
-	title="Yuzu Logo" width="150" height="100" />
+	title="Yuzu Logo" width="150" height="250" />
+</div>
 
 ## About this repository
 
