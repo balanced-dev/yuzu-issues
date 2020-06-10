@@ -1,5 +1,6 @@
 
-![alt text](/images/yuzu.svg "Yuzu Logo")
+<img src="/images/yuzu.svg" alt="Yuzu"
+	title="Yuzu Logo" width="150" height="100" />
 
 ## About this repository
 
